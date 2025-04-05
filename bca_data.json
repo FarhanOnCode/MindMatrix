@@ -1,0 +1,390 @@
+{
+    "subjects": {
+        "Computer Fundamentals": {
+            "books": [
+                "Computer Fundamentals by P.K. Sinha",
+                "Computer Science: An Overview by J. Glenn Brookshear",
+                "Fundamentals of Computers by V. Rajaraman",
+                "Computers: Basics & Beyond by Vikas Gupta"
+            ],
+            "important_topics": [
+                "Basic Computer Organization",
+                "Data Representation",
+                "Input/Output Devices",
+                "Memory Units",
+                "Binary Arithmetic",
+                "Boolean Logic & Gates"
+            ],
+            "pyqs": [
+                "Explain the basic components of a computer.",
+                "What is an operating system?",
+                "Differentiate between RAM and ROM.",
+                "Convert (101101)₂ to decimal."
+            ]
+        },
+        "Programming in C": {
+            "books": [
+                "Let Us C by Yashavant Kanetkar",
+                "C Programming Language by Brian W. Kernighan & Dennis Ritchie",
+                "Programming in ANSI C by E. Balagurusamy",
+                "C: How to Program by Paul Deitel"
+            ],
+            "important_topics": [
+                "Data Types",
+                "Control Structures",
+                "Functions",
+                "Pointers",
+                "Structures & Unions",
+                "File Handling in C"
+            ],
+            "pyqs": [
+                "Write a program to find the factorial of a number.",
+                "Explain pointers in C.",
+                "Differentiate between call by value and call by reference.",
+                "Write a C program to reverse a string."
+            ]
+        },
+        "Java Programming": {
+            "books": [
+                "Head First Java by Kathy Sierra",
+                "Effective Java by Joshua Bloch",
+                "Java: The Complete Reference by Herbert Schildt",
+                "Core Java Volume I by Cay S. Horstmann"
+            ],
+            "important_topics": [
+                "OOP Concepts",
+                "Exception Handling",
+                "Java Collections",
+                "Multithreading",
+                "JDBC",
+                "Lambda Expressions"
+            ],
+            "pyqs": [
+                "What is polymorphism in Java?",
+                "Explain the concept of inheritance.",
+                "What are checked and unchecked exceptions?",
+                "Write a Java program to implement multithreading."
+            ]
+        },
+        "Database Management Systems": {
+            "books": [
+                "Database System Concepts by Silberschatz, Korth, and Sudarshan",
+                "SQL in 10 Minutes by Ben Forta",
+                "Fundamentals of Database Systems by Elmasri & Navathe",
+                "SQL for Dummies by Allen G. Taylor"
+            ],
+            "important_topics": [
+                "Normalization",
+                "SQL Queries",
+                "Transactions",
+                "Indexes & Keys",
+                "ACID Properties",
+                "NoSQL Databases"
+            ],
+            "pyqs": [
+                "What is normalization? Explain its types.",
+                "Write an SQL query to find the second highest salary.",
+                "What are the ACID properties of a transaction?",
+                "Differentiate between SQL and NoSQL databases."
+            ]
+        },
+        "Artificial Intelligence": {
+            "books": [
+                "Artificial Intelligence: A Modern Approach by Stuart Russell & Peter Norvig",
+                "Deep Learning by Ian Goodfellow",
+                "Pattern Recognition and Machine Learning by Christopher Bishop"
+            ],
+            "important_topics": [
+                "Search Algorithms",
+                "Knowledge Representation",
+                "Expert Systems",
+                "Machine Learning Basics",
+                "Neural Networks",
+                "Natural Language Processing"
+            ],
+            "pyqs": [
+                "What is the difference between supervised and unsupervised learning?",
+                "Explain the working of a neural network.",
+                "What are heuristic search techniques?",
+                "Describe the applications of AI in real life."
+            ]
+        },
+        "Cloud Computing": {
+            "books": [
+                "Cloud Computing: Principles and Paradigms by Rajkumar Buyya",
+                "Architecting the Cloud by Michael J. Kavis",
+                "Cloud Computing for Dummies by Judith Hurwitz"
+            ],
+            "important_topics": [
+                "Cloud Deployment Models",
+                "Virtualization",
+                "AWS, Azure, GCP",
+                "Serverless Computing",
+                "Cloud Security"
+            ],
+            "pyqs": [
+                "What is the difference between IaaS, PaaS, and SaaS?",
+                "Explain how virtualization works in cloud computing.",
+                "Discuss the advantages and disadvantages of cloud computing."
+            ]
+        },
+        "Cybersecurity": {
+            "books": [
+                "Hacking: The Art of Exploitation by Jon Erickson",
+                "The Web Application Hacker's Handbook by Dafydd Stuttard",
+                "Cybersecurity for Dummies by Joseph Steinberg"
+            ],
+            "important_topics": [
+                "Ethical Hacking",
+                "Network Security",
+                "Encryption & Cryptography",
+                "Firewalls & IDS",
+                "Cyber Threats & Attacks"
+            ],
+            "pyqs": [
+                "What are the common types of cyber attacks?",
+                "Explain the working of a firewall.",
+                "What is ethical hacking? Differentiate between black-hat and white-hat hackers."
+            ]
+        },
+        "Machine Learning": {
+            "books": [
+                "Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow by Aurélien Géron",
+                "Python Machine Learning by Sebastian Raschka",
+                "The Hundred-Page Machine Learning Book by Andriy Burkov"
+            ],
+            "important_topics": [
+                "Supervised vs Unsupervised Learning",
+                "Regression vs Classification",
+                "Neural Networks",
+                "Feature Engineering",
+                "Gradient Descent",
+                "Hyperparameter Tuning"
+            ],
+            "pyqs": [
+                "What is overfitting and how can it be prevented?",
+                "Explain the concept of backpropagation in neural networks.",
+                "Differentiate between classification and clustering."
+            ]
+        },
+        "Blockchain Technology": {
+            "books": [
+                "Mastering Bitcoin by Andreas M. Antonopoulos",
+                "Blockchain Basics by Daniel Drescher",
+                "The Blockchain Revolution by Don Tapscott"
+            ],
+            "important_topics": [
+                "Bitcoin & Ethereum",
+                "Consensus Mechanisms",
+                "Smart Contracts",
+                "Decentralization",
+                "Cryptographic Hashing"
+            ],
+            "pyqs": [
+                "What is a blockchain and how does it work?",
+                "Explain the concept of smart contracts.",
+                "What is the role of cryptographic hashing in blockchain?"
+            ]
+        },
+        "Operating Systems": {
+            "books": [
+                "Operating System Concepts by Silberschatz, Galvin, and Gagne",
+                "Modern Operating Systems by Andrew S. Tanenbaum",
+                "Operating Systems: Internals and Design Principles by William Stallings"
+            ],
+            "important_topics": [
+                "Process Management",
+                "Memory Management",
+                "File Systems",
+                "Deadlocks",
+                "Concurrency & Synchronization",
+                "Virtual Memory"
+            ],
+            "pyqs": [
+                "What are the different types of operating systems?",
+                "Explain process scheduling in operating systems.",
+                "Differentiate between paging and segmentation."
+            ]
+        },
+        "Computer Networks": {
+            "books": [
+                "Computer Networking: A Top-Down Approach by Kurose & Ross",
+                "Data Communications and Networking by Behrouz A. Forouzan",
+                "Computer Networks by Andrew S. Tanenbaum"
+            ],
+            "important_topics": [
+                "OSI & TCP/IP Models",
+                "Routing Algorithms",
+                "Network Security",
+                "Wireless Networks",
+                "IP Addressing & Subnetting",
+                "Protocols (HTTP, FTP, DNS, etc.)"
+            ],
+            "pyqs": [
+                "Explain the differences between OSI and TCP/IP models.",
+                "What is subnetting? Explain with an example.",
+                "Describe different types of network topologies."
+            ]
+        },
+        "Software Engineering": {
+            "books": [
+                "Software Engineering: A Practitioner's Approach by Roger S. Pressman",
+                "The Mythical Man-Month by Frederick P. Brooks",
+                "Clean Code by Robert C. Martin"
+            ],
+            "important_topics": [
+                "Software Development Life Cycle (SDLC)",
+                "Agile & Scrum Methodologies",
+                "Software Testing & Debugging",
+                "Software Maintenance",
+                "Requirement Engineering",
+                "Design Patterns"
+            ],
+            "pyqs": [
+                "What are the different phases of the SDLC?",
+                "Explain Agile methodology and its advantages.",
+                "Describe various software testing techniques."
+            ]
+        },
+        "Data Structures and Algorithms": {
+            "books": [
+                "Introduction to the Design and Analysis of Algorithms by Anany Levitin",
+                "Data Structures and Algorithms in Java by Robert Lafore",
+                "Algorithms by Robert Sedgewick & Kevin Wayne"
+            ],
+            "important_topics": [
+                "Arrays & Linked Lists",
+                "Stacks & Queues",
+                "Trees & Graphs",
+                "Sorting & Searching Algorithms",
+                "Dynamic Programming",
+                "Hashing"
+            ],
+            "pyqs": [
+                "What is the difference between an array and a linked list?",
+                "Explain the working of the QuickSort algorithm.",
+                "Describe different types of tree traversal techniques."
+            ]
+        },
+        "Web Development": {
+            "books": [
+                "HTML and CSS: Design and Build Websites by Jon Duckett",
+                "JavaScript: The Good Parts by Douglas Crockford",
+                "Eloquent JavaScript by Marijn Haverbeke"
+            ],
+            "important_topics": [
+                "HTML, CSS, JavaScript",
+                "Frontend vs Backend Development",
+                "Responsive Web Design",
+                "Web Security (CORS, CSRF, XSS)",
+                "RESTful APIs",
+                "Web Hosting & Deployment"
+            ],
+            "pyqs": [
+                "Differentiate between frontend and backend development.",
+                "What are the advantages of using RESTful APIs?",
+                "Explain different types of CSS positioning."
+            ]
+        },
+        "Embedded Systems": {
+            "books": [
+                "Embedded Systems: Real-Time Interfacing to ARM Cortex-M Microcontrollers by Jonathan W. Valvano",
+                "Introduction to Embedded Systems by Shibu K. V.",
+                "The Art of Designing Embedded Systems by Jack Ganssle"
+            ],
+            "important_topics": [
+                "Microcontrollers & Microprocessors",
+                "Real-Time Operating Systems (RTOS)",
+                "Embedded C Programming",
+                "IoT & Embedded Systems",
+                "Sensors & Actuators",
+                "Power Management in Embedded Systems"
+            ],
+            "pyqs": [
+                "What are the key characteristics of embedded systems?",
+                "Explain the working of an RTOS.",
+                "Describe the role of microcontrollers in embedded systems."
+            ]
+        },
+        "Python Programming": {
+            "books": [
+                "Python Crash Course by Eric Matthes",
+                "Fluent Python by Luciano Ramalho",
+                "Python Cookbook by David Beazley & Brian K. Jones"
+            ],
+            "important_topics": [
+                "Object-Oriented Programming in Python",
+                "Multithreading & Concurrency",
+                "Data Science & Machine Learning with Python",
+                "Web Scraping using BeautifulSoup & Selenium",
+                "Django & Flask Frameworks",
+                "Automation with Python"
+            ],
+            "pyqs": [
+                "Explain the concept of decorators in Python.",
+                "How does Python handle memory management?",
+                "Describe the difference between multithreading and multiprocessing in Python."
+            ]
+        },
+        "Advanced Java": {
+            "books": [
+                "Effective Java by Joshua Bloch",
+                "Java: The Complete Reference by Herbert Schildt",
+                "Spring in Action by Craig Walls"
+            ],
+            "important_topics": [
+                "Java Servlets & JSP",
+                "Spring Boot & Hibernate",
+                "Java Multithreading & Concurrency",
+                "RESTful Web Services in Java",
+                "Lambda Expressions & Streams API",
+                "JDBC & Database Connectivity"
+            ],
+            "pyqs": [
+                "What are the key features of Spring Boot?",
+                "Explain the difference between HashMap and ConcurrentHashMap.",
+                "Describe how garbage collection works in Java."
+            ]
+        },
+        "Information Technology": {
+            "books": [
+                "Fundamentals of Information Technology by Alexis Leon",
+                "IT Infrastructure & Management by Phalguni Gupta",
+                "Introduction to Information Technology by Turban, Rainer, Potter"
+            ],
+            "important_topics": [
+                "IT Infrastructure & Security",
+                "Cloud Computing & Virtualization",
+                "Networking & Internet Technologies",
+                "Cybersecurity & Ethical Hacking",
+                "Database Management Systems",
+                "IT Project Management"
+            ],
+            "pyqs": [
+                "What are the different types of cloud computing models?",
+                "Explain the importance of cybersecurity in IT.",
+                "Differentiate between database management systems and file systems."
+            ]
+        },
+        "Big Data Analytics": {
+            "books": [
+                "Big Data: Principles and Best Practices by Jules J. Berman",
+                "Data Science for Business by Foster Provost & Tom Fawcett",
+                "Hadoop: The Definitive Guide by Tom White"
+            ],
+            "important_topics": [
+                "Hadoop Ecosystem & MapReduce",
+                "Big Data Processing with Spark",
+                "Data Warehousing & OLAP",
+                "Machine Learning & Big Data",
+                "NoSQL Databases",
+                "Data Visualization & Reporting"
+            ],
+            "pyqs": [
+                "What are the advantages of using Hadoop for big data processing?",
+                "Explain the concept of NoSQL databases.",
+                "Describe the role of data visualization in big data analytics."
+            ]
+        }
+    }
+}
